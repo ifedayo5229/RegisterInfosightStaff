@@ -1,2 +1,2 @@
 # RegisterInfosightStaff
- This project register Staff and Calculate Income
+ This project register Staffs and Calculate Income
